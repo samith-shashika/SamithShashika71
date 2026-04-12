@@ -20,10 +20,6 @@
 
 ###
 
-- 🔭 I’m currently working on [Sign Bridge – Real-time Sri Lankan Sign Language Recognition](https://github.com/SamithShashika71/Sign-Bridge)  
-
-- 🌱 I’m currently learning **React and Artificial Intelligence**  
-
 - 👨‍💻 All of my projects are available at [https://github.com/SamithShashika71](https://github.com/SamithShashika71)
 
 - 📫 How to reach me **samithshashika.se@gmail.com**
