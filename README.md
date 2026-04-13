@@ -16,15 +16,15 @@
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlucXlpODQ5Z3AxeGZuMXo0eHU0Z2QyZ3QzcGRuMDR6cjB5NHVrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Boy studying on laptop">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SamithShashika71&label=Profile%20views&color=0e75b6&style=flat" alt="SamithShashika71" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samith-shashika&label=Profile%20views&color=0e75b6&style=flat" alt="samith-shashika" /> </p>
 
 ###
 
-- 🔭 I’m currently working on [Sign Bridge – Real-time Sri Lankan Sign Language Recognition](https://github.com/SamithShashika71/Sign-Bridge)  
+- 🔭 I’m currently working on [Sign Bridge – Real-time Sri Lankan Sign Language Recognition](https://github.com/samith-shashika/Sign-Bridge)  
 
 - 🌱 I’m currently learning **NextJs and Artificial Intelligence**  
 
-- 👨‍💻 All of my projects are available at [https://github.com/SamithShashika71](https://github.com/SamithShashika71)
+- 👨‍💻 All of my projects are available at [https://github.com/samith-shashika](https://github.com/samith-shashika)
 
 - 📫 How to reach me **samithshashika.se@gmail.com**
 
@@ -90,9 +90,9 @@
 
 ### GitHub Analytics 
 
-| ![Samith's github stats](https://github-readme-stats.vercel.app/api?username=SamithShashika71&show_icons=true&theme=tokyonight) | ![Samith GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamithShashika71&theme=tokyonight) |
+| ![Samith's github stats](https://github-readme-stats.vercel.app/api?username=samith-shashika1&show_icons=true&theme=tokyonight) | ![Samith GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samith-shashika&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamithShashika71&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SamithShashika71&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samith-shashika&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=samith-shashika&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <br clear="both">
 
